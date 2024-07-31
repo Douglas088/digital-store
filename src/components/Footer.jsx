@@ -75,7 +75,6 @@ const Footer = () => {
 };
 
 const Containerfooter = styled.footer`
-  position: fixed;
   background-color: var(--dark-gray);
   color: var(--white);
   height: 400px;
